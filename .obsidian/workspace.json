@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbd9fe0affd62f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/issues/self-invocation.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/issues/self-invocation.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/issues/self-invocation.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -148,10 +161,12 @@
   },
   "active": "3c6592f5b3411bdd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "spring/issues/self-invocation.md",
+    "README.md",
     "새 텍스트 문서.txt",
     "redis",
     "spring/Untitled.md",
-    "spring/issues/self-invocation.md",
     "spring/issues",
     "spring",
     "algorithm",
