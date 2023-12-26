@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/Untitled.md",
+                "file": "spring/issues/self-invocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/Untitled.md",
+                "file": "spring/issues/self-invocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/Untitled.md",
+                "file": "spring/issues/self-invocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/Untitled.md"
+                "file": "spring/issues/self-invocation.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "e3315fe40ff6265c",
   "lastOpenFiles": [
     "spring/Untitled.md",
+    "spring/issues/self-invocation.md",
+    "spring/issues",
     "spring",
     "algorithm",
     "modern-java-in-action"
