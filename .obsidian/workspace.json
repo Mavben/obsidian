@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3315fe40ff6265c",
+  "active": "3c6592f5b3411bdd",
   "lastOpenFiles": [
+    "redis",
     "spring/Untitled.md",
     "spring/issues/self-invocation.md",
     "spring/issues",
