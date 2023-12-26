@@ -1,0 +1,5 @@
+.obsidian/
+
+modern-java-in-action/
+
+redis/
