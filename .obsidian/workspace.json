@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/issues/self-invocation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/issues/self-invocation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/issues/self-invocation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/issues/self-invocation.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,10 +166,10 @@
   },
   "active": "e3315fe40ff6265c",
   "lastOpenFiles": [
+    "spring/issues/self-invocation.md",
     "README.md",
     "Spaces/Home",
     "Spaces",
-    "spring/issues/self-invocation.md",
     "새 텍스트 문서.txt",
     "redis",
     "spring/Untitled.md",
