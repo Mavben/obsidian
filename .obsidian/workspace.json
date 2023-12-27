@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/issues/self-invocation.md",
+                "file": "docker/docker.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "82c51af1593be28f",
-            "type": "leaf",
-            "state": {
-              "type": "make-file-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
               }
             }
           }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/issues/self-invocation.md",
+                "file": "docker/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/issues/self-invocation.md",
+                "file": "docker/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/issues/self-invocation.md"
+                "file": "docker/docker.md"
               }
             }
           }
@@ -166,8 +156,10 @@
   },
   "active": "e3315fe40ff6265c",
   "lastOpenFiles": [
-    "README.md",
     "spring/issues/self-invocation.md",
+    "docker/docker.md",
+    "docker",
+    "README.md",
     "Spaces/Home",
     "Spaces",
     "새 텍스트 문서.txt",
