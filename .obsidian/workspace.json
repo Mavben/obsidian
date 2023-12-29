@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/JVM.md",
+                "file": "java/Garbage Collector.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/JVM.md",
+                "file": "java/Garbage Collector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/JVM.md",
+                "file": "java/Garbage Collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/JVM.md"
+                "file": "java/Garbage Collector.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "e3315fe40ff6265c",
   "lastOpenFiles": [
+    "java/JVM.md",
     "Pasted image 20231229095404.png",
     "java/Garbage Collector.md",
-    "java/JVM.md",
     "spring/issues/self-invocation.md",
     "java",
     "docker/docker.md",
