@@ -156,8 +156,9 @@
   },
   "active": "e3315fe40ff6265c",
   "lastOpenFiles": [
-    "spring/issues/self-invocation.md",
+    "java/JVM.md",
     "java/Garbage Collector.md",
+    "spring/issues/self-invocation.md",
     "java",
     "docker/docker.md",
     "docker",
