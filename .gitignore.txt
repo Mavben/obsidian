@@ -1,7 +1,9 @@
 .obsidian/
 
-modern-java-in-action/
-
 redis/
 
 algorithm/
+
+java_jungsuk/
+
+Garbage Collector/
