@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/트랜잭션 처리.md",
+                "file": "SQL/SELECT 구문.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/트랜잭션 처리.md",
+                "file": "SQL/SELECT 구문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/트랜잭션 처리.md",
+                "file": "SQL/SELECT 구문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/트랜잭션 처리.md"
+                "file": "SQL/SELECT 구문.md"
               }
             }
           }
@@ -169,10 +169,13 @@
   },
   "active": "f6dea0aec5204034",
   "lastOpenFiles": [
+    "JPA/트랜잭션 처리.md",
+    "SQL/SELECT 구문.md",
+    "SQL",
+    "interview",
+    "JPA/상속 관계 매핑.md",
     "Pasted image 20240101225946.png",
     "JPA/JPQL, Criteria API, Native SQL .md",
-    "JPA/트랜잭션 처리.md",
-    "JPA/상속 관계 매핑.md",
     "Pasted image 20231231091434.png",
     "JPA/FetchType.LAZY, FetchType.EAGER.md",
     "spring/issues/Untitled.md",
@@ -191,8 +194,6 @@
     "README.md",
     "새 텍스트 문서.txt",
     "redis",
-    "spring/issues",
-    "spring",
-    "algorithm"
+    "spring/issues"
   ]
 }
