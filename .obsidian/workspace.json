@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SELECT 구문.md",
+                "file": "SQL/집합 연산 .md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SELECT 구문.md",
+                "file": "SQL/집합 연산 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SELECT 구문.md",
+                "file": "SQL/집합 연산 .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SELECT 구문.md"
+                "file": "SQL/집합 연산 .md"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "f6dea0aec5204034",
   "lastOpenFiles": [
-    "JPA/트랜잭션 처리.md",
     "SQL/SELECT 구문.md",
+    "SQL/집합 연산 .md",
+    "JPA/트랜잭션 처리.md",
     "SQL",
     "interview",
     "JPA/상속 관계 매핑.md",
